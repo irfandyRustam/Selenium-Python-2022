@@ -41,8 +41,8 @@ Test Case :
 Assignment :
 
 1. Open Web Browser (Chrome/Firefox/Edge)
-2. Open URL [https://admin-demo.nopcommerce.com/login](https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F)
-3. Enter username ([admin@yourstore.com](mailto:admin@yourstore.com))
+2. Open URL [https://admin-demo.nopcommerce.com/login]
+3. Enter username (admin@yourstore.com)
 4. Enter password (admin)
 5. Click on Login
 6. Capture title of the dashboard page (Actual title)
