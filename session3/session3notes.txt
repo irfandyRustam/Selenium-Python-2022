@@ -1,0 +1,61 @@
+### Xpath
+
+- Xpath is defined as XML path.
+- It is a syntax or language for finding any element on the web page using XML path expression.
+- Xpath is used to find the location of any element on webpage using HTML DOM structure.
+- Xpath can be used to navigate through elements and attributes in DOM.
+- Xpath is an address of the element.
+
+### Types of xpath
+
+- Absolute / Full xpath
+    - ex: /html/body/nav/div/div[2]/ul[3]/li[1]/a
+    - /html/body/div[1]/div/div[3]/div[1]/img
+- Relative / Partial xpath
+    - ex: //*[@id="header-navbar"]/ul[3]/li[1]/a
+    - //*[@id="divLogo"]/img
+
+### Difference between Absolute and Relative xpaths
+
+1. Absolute → xpath starts from root html node
+Relative → xpath directly jump to element on DOM
+2. Absolute → xpath start with single slash “/”
+Relative → xpath start with double slash “//”
+3. Absolute → xpath only use tags/nodes
+Relative → xpath use attributes
+
+### How to write xpaths manually
+
+/html/body/div[6]/div[1]/div[1]/div[2]/div[1]/ul/li[1]/a
+
+syntax of writing relative xpath :
+
+//tagname[@attribute=’value’]
+
+//input[@id='small-searchterms']
+
+//*[@id='small-searchterms']
+
+### How to write xpaths automatically
+
+1. Firebug, firepath → firefox : deprecated / not available
+2. Right click on element → Inspect → Highlight html code → Right click → Copy Xpath
+3. SelectorsHub
+
+### Reasons to prefer relative xpath over absolute xpath
+
+- if developer introduced new element then absolute xpath will be broken
+- if developer change the location then absolute xpath will be broken
+- absolute xpath is unstable
+
+### Which xpath is prefered? Why?
+
+answer : Relative xpath
+
+### Xpath options
+
+- and
+- or
+- contains()
+- starts-with()
+- text()
