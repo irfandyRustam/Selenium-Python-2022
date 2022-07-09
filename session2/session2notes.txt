@@ -1,0 +1,27 @@
+# Session #2
+
+## Locators
+
+- Identify element
+- Action
+
+### Type of Locators
+
+- Normal Locators
+    - id
+    - name
+    - linktext
+    - partial linktext
+    - class
+    - tagname
+- Customized Locators
+    - css selector
+    - xpath
+
+
+CSS Selectors
+
+1. tag + id —> tagname#valueofId : input#email
+2. tag + class —> tagname.valueofClass : input.inputtext
+3. tag + attribute —> tagname[attribute=value] : input[data-testid=royal_email]
+4. tag + class + attribute —> tagname.valueofClass[attribute=value] : input.inputtext[data-testid=royal_pass]
