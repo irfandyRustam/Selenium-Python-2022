@@ -1,0 +1,11 @@
+### Xpath axes
+
+- self
+- parent
+- child
+- ancestor
+- descendant
+- following
+- following-sibling
+- preceding
+- preceding-sibling
