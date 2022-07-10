@@ -1,0 +1,41 @@
+### Types of commands
+
+1. application commands
+2. conditional commands
+3. browser commands
+4. navigational commands
+5. wait commands
+
+### Application commands
+
+- get() → opening the application URL
+- title → to capture the title of current webpage
+- current_url → to capture the current url of webpage
+- page_source → to capture source code of the page
+
+### Conditional commands
+
+- is_displayed()
+- is_enabled()
+- is_selected()
+
+### Browser commands
+
+- close() → close single browser window (where driver focused)
+- quit() → close multiple browser windows (this will kill the process)
+
+### Navigational commands
+
+- back()
+- forward()
+- refresh()
+
+### find_element() vs find_elements()
+
+- find_element() → return single webElement [Object]
+- find_elements() → return multiple webElements [List of Object]
+
+### text vs get_attribute()
+
+- text → return innerText of the element
+- get_attribute() → return values of any attribute of web element
