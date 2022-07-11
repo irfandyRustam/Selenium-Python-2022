@@ -1,0 +1,27 @@
+### Wait commands
+
+1. **implicit wait**
+    1. ex : `driver.implicitly_wait(10)`
+    - advantage :
+        - single statement
+        - performance will not be reduced (if element is available within the time, it proceed to execute next statement)
+    - disadvantage :
+        - if the element is not available within the time mentioned, still there is a chance of getting exception
+2. **explicit wait**
+    1. works based on condition
+    - advantage :
+        - more effectively works
+    - disadvantage :
+        - multiple places
+        - feel some difficulty
+
+### time.sleep(time in seconds)
+
+advantage :
+
+- simple to use
+
+disadvantage :
+
+- performance of the script is very poor
+- if the element is not available within the time mentioned, still there is a chance of getting exception
