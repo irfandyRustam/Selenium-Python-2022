@@ -1,0 +1,12 @@
+- Checkbox
+- Links
+    - Internal
+    - External
+    - Broken link
+- Dropdown
+
+### Assignment
+
+[https://testautomationpractice.blogspot.com/](https://testautomationpractice.blogspot.com/)
+
+[https://itera-qa.azurewebsites.net/home/automation](https://itera-qa.azurewebsites.net/home/automation)
