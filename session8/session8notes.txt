@@ -1,0 +1,40 @@
+### Alerts / Popups
+
+- myalert = driver.switch_to.alert
+- myalert.text
+- myalert.accept()
+- myalert.dismiss()
+
+### Authentication Popup
+
+inject username and password into the url to bypass it
+
+[https://the-internet.herokuapp.com/basic_auth](https://the-internet.herokuapp.com/basic_auth)
+
+syntax : **https://username:password@test.com**
+ex: [https://admin:admin@the-internet.herokuapp.com/basic_auth](https://the-internet.herokuapp.com/basic_auth)
+
+### Frames / iFrames
+
+- switch_to.frame(name of the frame)
+- switch_to.frame(id of the frame)
+- switch_to.frame(webelement)
+- switch_to.frame(0)
+- switch_to.default_content()
+
+### Inner Frames
+
+### Browser Windows
+
+switch_to.window(WindowID)
+
+current_window_handle → return windowID of single browser window
+
+window_handles → return windowID’s of multiple browser windows
+
+### Assignment
+
+[https://testautomationpractice.blogspot.com/](https://testautomationpractice.blogspot.com/)
+
+1. In ‘New Windows’ → type anything in search field → capture all links from the result → perform click action on each one of them
+2. After getting multiple browser windows → get all windowIDs → switch to each browser window, capture title and print them → after completion close all browser windows in one shot
