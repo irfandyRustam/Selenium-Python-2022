@@ -1,0 +1,12 @@
+### WebTable
+
+- Static webtable
+- Dynamic webtable
+
+### Assignment
+
+[https://opensource-demo.orangehrmlive.com/](https://opensource-demo.orangehrmlive.com/)
+
+Admin > User Management > Users
+
+Print only username and user roles, where user roles = ‘ESS’
