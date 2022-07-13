@@ -1,0 +1,8 @@
+### Date Picker
+
+- Standard
+- Non-standard (customized)
+
+### Assignment
+
+Automate filling form for this site : [https://www.dummyticket.com/dummy-ticket-for-visa-application/]
