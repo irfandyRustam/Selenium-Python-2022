@@ -1,0 +1,160 @@
+1657717330763	geckodriver	INFO	Listening on 127.0.0.1:51067
+1657717333842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51068" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofilekKPtoO"
+1657717336674	Marionette	INFO	Marionette enabled
+1657717336684	Marionette	INFO	Listening on port 51080
+WebDriver BiDi listening on ws://localhost:51068
+Read port: 51080
+1657717336916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofilekKPtoO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51068/devtools/browser/8142e93e-4e1d-40e3-a904-ee46166e2be2
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 6292 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 4921 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657717352198	Marionette	INFO	Stopped listening on port 51080
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1657717387074	geckodriver	INFO	Listening on 127.0.0.1:56275
+1657717390151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56276" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofileF1RU94"
+1657717390700	Marionette	INFO	Marionette enabled
+1657717390707	Marionette	INFO	Listening on port 56287
+WebDriver BiDi listening on ws://localhost:56276
+Read port: 56287
+1657717390934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofileF1RU94\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56276/devtools/browser/f8d6f196-c097-451d-bd70-17e5286890ea
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 5167 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 1774 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 4611 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PBLy2ghsJAjz8SVbRXt3mPeTz3f3ksFMZv27m_PD6qM.js line 2 > eval line 5563 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657717409962	Marionette	INFO	Stopped listening on port 56287
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1657718113479	geckodriver	INFO	Listening on 127.0.0.1:56990
+1657718116553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofilezRXZx7"
+1657718117016	Marionette	INFO	Marionette enabled
+1657718117022	Marionette	INFO	Listening on port 57002
+WebDriver BiDi listening on ws://localhost:56991
+Read port: 57002
+1657718117200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofilezRXZx7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56991/devtools/browser/8a6123e7-bd5a-47b8-858b-68999c5bf6d2
+JavaScript warning: moz-extension://66700348-a46f-40d2-9fd5-0e65b4a5d9b9/abp-background.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: , line 0: uncaught exception: undefined
+1657718125500	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: imaScriptFailure
+JavaScript error: , line 0: uncaught exception: imaScriptFailure
+JavaScript error: , line 0: uncaught exception: imaScriptFailure
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit jid1-NIfFY2CA8fy1tg@jetpack.137438953679
+1657718127332	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1657718127409	Marionette	INFO	Stopped listening on port 57002
+[Parent 18324, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1657718134486	geckodriver	INFO	Listening on 127.0.0.1:57101
+1657718137544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57102" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofilelGCDGY"
+1657718138191	Marionette	INFO	Marionette enabled
+1657718138199	Marionette	INFO	Listening on port 57113
+WebDriver BiDi listening on ws://localhost:57102
+Read port: 57113
+1657718138739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofilelGCDGY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57102/devtools/browser/7b9a7052-1a8c-47e8-a173-04aeb17e10c7
+JavaScript warning: moz-extension://0f867a94-f698-4709-8c86-5ad8e1414ab2/abp-background.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+1657718145981	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://filesamples.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://filesamples.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://filesamples.com"
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit jid1-NIfFY2CA8fy1tg@jetpack.137438953679
+1657718156552	Marionette	INFO	Stopped listening on port 57113
+1657718430011	geckodriver	INFO	Listening on 127.0.0.1:55501
+1657718433075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55502" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofileZ6k7hc"
+1657718433593	Marionette	INFO	Marionette enabled
+1657718433600	Marionette	INFO	Listening on port 55512
+WebDriver BiDi listening on ws://localhost:55502
+Read port: 55512
+1657718433778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofileZ6k7hc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55502/devtools/browser/15a30186-11a7-4c59-b7f8-2e11f8c920c4
+JavaScript warning: moz-extension://4595b2a8-0a44-4a89-85e4-b9c903611d0f/abp-background.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: https://cd.connatix.com/connatix.player.js?cid=5f049401-746e-4449-8c27-b6b9d8e25882, line 1: TypeError: this.renderer is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://filesamples.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://filesamples.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://filesamples.com"
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit jid1-NIfFY2CA8fy1tg@jetpack.137438953679
+1657718446349	Marionette	INFO	Stopped listening on port 55512
+1657718472119	geckodriver	INFO	Listening on 127.0.0.1:55614
+1657718475159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofileaGf7d4"
+1657718475813	Marionette	INFO	Marionette enabled
+1657718475822	Marionette	INFO	Listening on port 55626
+WebDriver BiDi listening on ws://localhost:55615
+Read port: 55626
+1657718476298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofileaGf7d4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55615/devtools/browser/042a5b7a-aa5e-4af3-9efb-343c78d78b3b
+JavaScript warning: moz-extension://7ebeb120-f418-491a-92fe-3d5144e1cf12/abp-background.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+1657718486853	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit jid1-NIfFY2CA8fy1tg@jetpack.137438953686
+1657719158555	Marionette	INFO	Stopped listening on port 55626
+ote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofileUPdJxW"
+1657718618174	Marionette	INFO	Marionette enabled
+1657718618181	Marionette	INFO	Listening on port 55803
+WebDriver BiDi listening on ws://localhost:55790
+Read port: 55803
+1657718618530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofileUPdJxW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55790/devtools/browser/427c0f66-da7b-49f7-a62c-ffe0aff7439d
+JavaScript warning: moz-extension://85acf0b7-2cfb-46ec-b91b-e304071ae393/abp-background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript error: https://cd.connatix.com/connatix.player.js?cid=5f049401-746e-4449-8c27-b6b9d8e25882, line 1: TypeError: this.renderer is undefined
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit jid1-NIfFY2CA8fy1tg@jetpack.137438953679
+1657718642830	Marionette	INFO	Stopped listening on port 55803
+1657718958481	geckodriver	INFO	Listening on 127.0.0.1:56120
+1657718961541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56121" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofilebPkKd6"
+1657718962236	Marionette	INFO	Marionette enabled
+1657718962245	Marionette	INFO	Listening on port 56131
+WebDriver BiDi listening on ws://localhost:56121
+Read port: 56131
+1657718962444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofilebPkKd6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56121/devtools/browser/31de9011-2cd3-4bdb-883c-57a7c0943af3
+JavaScript warning: moz-extension://71606cd6-bcb4-42d3-a307-ec9a99f942ca/abp-background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript error: https://cd.connatix.com/connatix.player.js?cid=5f049401-746e-4449-8c27-b6b9d8e25882, line 1: TypeError: this.renderer is undefined
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit jid1-NIfFY2CA8fy1tg@jetpack.137438953679
+1657718993348	Marionette	INFO	Stopped listening on port 56131
+!!! error running onStopped callback: TypeError: callback is not a function
+1657719022294	geckodriver	INFO	Listening on 127.0.0.1:56265
+1657719025381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56267" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofile2ZgkKO"
+1657719025907	Marionette	INFO	Marionette enabled
+1657719025915	Marionette	INFO	Listening on port 56278
+WebDriver BiDi listening on ws://localhost:56267
+Read port: 56278
+1657719026142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofile2ZgkKO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56267/devtools/browser/159a7f2a-49df-4042-b2a5-5839d0291e6b
+JavaScript warning: moz-extension://1ef24bf0-ff79-4dbc-97ec-422f342949ff/abp-background.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+1657719033965	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit jid1-NIfFY2CA8fy1tg@jetpack.137438953679
+1657719050703	Marionette	INFO	Stopped listening on port 56278
+[Parent 23088, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1657719323275	geckodriver	INFO	Listening on 127.0.0.1:56717
+1657719326354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56718" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofileWfhydu"
+1657719326928	Marionette	INFO	Marionette enabled
+1657719326935	Marionette	INFO	Listening on port 56728
+WebDriver BiDi listening on ws://localhost:56718
+Read port: 56728
+1657719327133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofileWfhydu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56718/devtools/browser/72095e2c-f20b-42eb-babd-eaa3916f910e
+JavaScript warning: moz-extension://cfb7ef25-263f-454b-8387-447bf9a422a4/abp-background.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://api.fouanalytics.com/s/pp.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657719335814	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit jid1-NIfFY2CA8fy1tg@jetpack.137438953677
+1657719357557	Marionette	INFO	Stopped listening on port 56728
