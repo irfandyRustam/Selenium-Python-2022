@@ -158,3 +158,17 @@ JavaScript warning: https://api.fouanalytics.com/s/pp.js, line 1: WEBGL_debug_re
 1657719335814	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
 JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit jid1-NIfFY2CA8fy1tg@jetpack.137438953677
 1657719357557	Marionette	INFO	Stopped listening on port 56728
+1657719905305	geckodriver	INFO	Listening on 127.0.0.1:57379
+1657719908378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57380" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofile5XorwM"
+1657719909123	Marionette	INFO	Marionette enabled
+1657719909131	Marionette	INFO	Listening on port 57390
+WebDriver BiDi listening on ws://localhost:57380
+Read port: 57390
+1657719909411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofile5XorwM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57380/devtools/browser/434d7194-68d0-4917-ab34-c55302509a14
+JavaScript warning: moz-extension://ddc26280-2e2d-4965-9c6b-d0f4a29fcc32/abp-background.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: https://cd.connatix.com/connatix.player.js?cid=5f049401-746e-4449-8c27-b6b9d8e25882, line 1: TypeError: this.renderer is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit jid1-NIfFY2CA8fy1tg@jetpack.137438953679
+1657719939934	Marionette	INFO	Stopped listening on port 57390
