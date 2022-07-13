@@ -1,0 +1,19 @@
+### Mouse Operations
+
+### ActionChains
+
+1. Mouse hover → move_to_element(element)
+2. Right click → context_click(element)
+3. Double click → double_click(element)
+4. Drag and drop → drag_and_drop(source, target)
+5. Slider → drag_and_drop_by_offset(element, x, y)
+
+### Scrolling page
+
+- Scroll down page by pixel
+- Scroll down page till the element visible
+- Scroll down page till end of page
+
+### Assignment
+
+- [https://testautomationpractice.blogspot.com/]
