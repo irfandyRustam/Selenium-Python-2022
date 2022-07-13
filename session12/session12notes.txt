@@ -1,0 +1,15 @@
+### Keyboard Actions
+
+### How to Download File
+
+[https://www.sitepoint.com/mime-types-complete-list/](https://www.sitepoint.com/mime-types-complete-list/)
+
+### How to Upload File
+
+driver.find_element(By.XPATH, "(//input[@id='file-upload'])[1]").send_keys("C:\Sample.pdf")
+
+### Assignment
+
+1. Download File - Image : [https://filesamples.com/categories/image]
+2. Upload File - OrangeHRM : [https://opensource-demo.orangehrmlive.com/]
+    1. Login → PIM → Add Employee → Upload Photograph
