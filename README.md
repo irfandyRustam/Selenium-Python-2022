@@ -1,6 +1,8 @@
 # SeleniumPython2022
 ## Selenium with Python (2022 New Series)  
 Channel: SDET- QA Automation Techie  
+Notion Notes:  
+https://uneven-evergreen-785.notion.site/Selenium-with-Python-2022-New-Series-1386377b612846ffbb52dd8d36ae4ac4  
 Playlist:  
 https://www.youtube.com/playlist?list=PLUDwpEzHYYLsuUBvuoYTlN0KsBB5t-BDa  
 
