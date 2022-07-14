@@ -1,0 +1,19 @@
+### Data Driven testing
+
+openpyxl → we can work with excel files (.xlsx)
+
+1. Read data from excel
+2. How to write data into excel
+3. data driven test case
+
+File → Workbook → Sheets → Rows → Cells
+
+Read data :
+
+data = sheet.cell(r, c).value
+
+Write data :
+
+sheet.cell(r, c).value = “value”
+
+workbook.save(file) # save the file after entering the data
