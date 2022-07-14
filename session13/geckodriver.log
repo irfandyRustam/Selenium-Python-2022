@@ -1,0 +1,14 @@
+1657774702941	geckodriver	INFO	Listening on 127.0.0.1:52743
+1657774706005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52744" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofileBo5vv1"
+*** You are running in headless mode.
+1657774706636	Marionette	INFO	Marionette enabled
+1657774706645	Marionette	INFO	Listening on port 52753
+WebDriver BiDi listening on ws://localhost:52744
+Read port: 52753
+1657774706855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\IRFAND~1\\AppData\\Local\\Temp\\rust_mozprofileBo5vv1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52744/devtools/browser/e0c54065-1119-4590-a172-6e1f48e23219
+1657774710000	Marionette	INFO	Stopped listening on port 52753
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\IRFAND~1\AppData\Local\Temp\rust_mozprofileBo5vv1\protections.sqlite
+[Parent 13236, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
