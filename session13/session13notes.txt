@@ -1,0 +1,16 @@
+### Bootstrap Dropdown
+
+### How to capture screen shot of  a webpage
+
+### How to handle cookies
+
+cookie → name = “xyz”
+
+      → value = 1234
+
+      → expirydate = date
+
+### Headless Mode
+
+ops = webdriver.ChromeOptions()
+ops.headless = True
