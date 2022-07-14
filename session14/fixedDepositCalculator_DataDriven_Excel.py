@@ -4,7 +4,6 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
-from selenium.webdriver.chrome.options import Options
 
 serv_obj = Service("C:\Drivers\chromedriver.exe")
 chrome_options = webdriver.ChromeOptions()
@@ -15,7 +14,6 @@ driver = webdriver.Chrome(service=serv_obj, options=chrome_options)
 driver.implicitly_wait(10)
 driver.get("https://www.moneycontrol.com/fixed-income/calculator/state-bank-of-india-sbi/fixed-deposit-calculator-SBI-BSB001.html?classic=true")
 driver.maximize_window()
-# driver.find_element(By.XPATH, "//button[@id='wzrk-cancel']")    # close popup notification
 
 file = "C:\SeleniumPractice\caldata.xlsx"
 rows = XLUtils.getRowCount(file, "Sheet1")
