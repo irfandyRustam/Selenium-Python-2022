@@ -1,0 +1,6 @@
+### Data Driven Testing with Database
+
+Pre-Requisites
+
+- MySQL
+- Reference link : [https://www.youtube.com/playlist?list=PLUDwpEzHYYLvWEwDxZViN1shP-pGyZdtT]
