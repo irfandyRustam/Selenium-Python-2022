@@ -28,4 +28,4 @@ sheet.cell(3, 1).value = 890
 sheet.cell(3, 2).value = "david"
 sheet.cell(3, 3).value = "developer"
 
-workbook.save(file)
+workbook.save(file) # save the file after entering the data
